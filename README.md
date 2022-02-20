@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deborahBraud
-- 👀 I’m interested in Biology field, informatics, and web developement
+- 👀 I’m interested in various fields including: biology, marine ecology, informatics, and web developement;
 - 🌱 I’m currently learning javascript on my own
 - 📫 You can reach me by email at deborahbraud@gmail.com
 
